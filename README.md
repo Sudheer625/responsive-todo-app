@@ -2,7 +2,7 @@
 
 A sleek, modern TODO application built with **HTML**, **CSS**, and **Vanilla JavaScript (ES6+)**, designed with a **mobile-first approach** and **state management** via the browser's local storage.
 
-> 🚀 Live Demo: [Click here to try it out](https://your-username.github.io/your-repo-name)
+> 🚀 Live Demo: [Click here to try it out]([https://your-username.github.io/your-repo-name](https://sudheer625.github.io/responsive-todo-app/))
 
 ---
 
@@ -19,12 +19,6 @@ A sleek, modern TODO application built with **HTML**, **CSS**, and **Vanilla Jav
 
 ---
 
-## 🎨 Screenshots
-
-> *(You can add screenshots here)*
-
-![Mobile View](./screenshots/mobile.png)
-![Desktop View](./screenshots/desktop.png)
 
 ---
 
